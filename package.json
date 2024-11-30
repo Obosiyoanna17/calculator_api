@@ -1,0 +1,14 @@
+{
+  "name": "mini-capstone-project",
+  "version": "1.0.0",
+  "description": "\"Calculator\"",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}

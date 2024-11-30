@@ -1,0 +1,1 @@
+query string module  is used as utilities for parsing and formattng URL query strings. It can be used to convert query strings into JSON object and vice-versa/
